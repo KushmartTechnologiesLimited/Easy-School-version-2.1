@@ -1,0 +1,53 @@
+C:\Users\sam\AppData\Local\Temporary Projects\easy school\bin\Debug\easy school.exe.config
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.register_main.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.register.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.Resources.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.admin_fee.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy school.vbproj.GenerateResource.Cache
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\easy school.exe.config
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\easy school.exe
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\easy school.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\easy school.xml
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy school.exe
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy school.xml
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy school.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.Fees_Collection.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.class_teachers.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teacher_view.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teacher.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.student_profile.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.mdyfrmparents.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.mdparent.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.master_day_time_table.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teachers_main.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teachers_attendance.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teachers_attendance_report.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.class_assgn.resources
+C:\Users\sam\Desktop\easy school\easy school\bin\Debug\easy school.exe.config
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy school.exe
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy school.xml
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy school.pdb
+C:\Users\sam\Desktop\easy school\easy school\bin\Debug\easy school.exe
+C:\Users\sam\Desktop\easy school\easy school\bin\Debug\easy school.pdb
+C:\Users\sam\Desktop\easy school\easy school\bin\Debug\easy school.xml
+C:\Users\sam\Desktop\easy school\easy school\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\sam\Desktop\easy school\easy school\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.mdyfrmparents.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.mdparent.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.register_main.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.register.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.Resources.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.student_profile.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.admin_fee.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.Fees_Collection.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.class_assgn.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.class_teachers.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.teacher_view.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.teacher.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.teachers_attendance_report.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.teachers_attendance.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.teachers_main.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy_school.master_day_time_table.resources
+C:\Users\sam\Desktop\easy school\easy school\obj\Debug\easy school.vbproj.GenerateResource.Cache

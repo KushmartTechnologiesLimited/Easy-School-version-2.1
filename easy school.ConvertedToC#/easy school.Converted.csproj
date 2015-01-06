@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C92C9091-2A2D-4250-AD6E-D61D5D596A0B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>easy_school.My.MyApplication</StartupObject>
+    <RootNamespace>easy_school</RootNamespace>
+    <AssemblyName>easy school</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>easy school.xml</DocumentationFile>
+    <NoWarn>1591</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>easy school.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Linux Mint.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>.\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>.\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF5, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.5\MySql.Data.Entity.EF5.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF6, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.5\MySql.Data.Entity.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.5\MySql.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="classes.Designer.cs">
+      <DependentUpon>classes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\database.cs" />
+    <Compile Include="classes\dataerrors.cs" />
+    <Compile Include="classes\resultsbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="classes\resultsbox.Designer.cs">
+      <DependentUpon>resultsbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes\validate.cs" />
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="exams and results\exam_reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exams and results\exam_reports.Designer.cs">
+      <DependentUpon>exam_reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exams and results\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exams and results\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exams and results\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exams and results\Form2.designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exams and results\report form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exams and results\report form.designer.cs">
+      <DependentUpon>report form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exams and results\results_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exams and results\results_view.designer.cs">
+      <DependentUpon>results_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fees\bill student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees\bill student.Designer.cs">
+      <DependentUpon>bill student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fees\billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees\billing.Designer.cs">
+      <DependentUpon>billing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fees\change  class.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees\change  class.Designer.cs">
+      <DependentUpon>change  class.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fees\collect fees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees\collect fees.Designer.cs">
+      <DependentUpon>collect fees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fees\fees rates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees\fees rates.Designer.cs">
+      <DependentUpon>fees rates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fees\Fees_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees\Fees_Admin.Designer.cs">
+      <DependentUpon>Fees_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fees\fee_statement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees\fee_statement.Designer.cs">
+      <DependentUpon>fee_statement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fees\reports\report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees\reports\report.Designer.cs">
+      <DependentUpon>report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fees\students fees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees\students fees.Designer.cs">
+      <DependentUpon>students fees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fees\type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fees\type.Designer.cs">
+      <DependentUpon>type.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logs\create user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="logs\create user.Designer.cs">
+      <DependentUpon>create user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logs\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="logs\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Application.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.cs" />
+    <Compile Include="My Project\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="MyNamespaceSupportForCSharp.cs" />
+    <Compile Include="prints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prints.Designer.cs">
+      <DependentUpon>prints.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registration\frmparents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration\frmparents.Designer.cs">
+      <DependentUpon>frmparents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registration\modify\mdparent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration\modify\mdparent.Designer.cs">
+      <DependentUpon>mdparent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registration\new_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration\new_student.Designer.cs">
+      <DependentUpon>new_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registration\view all.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration\view all.Designer.cs">
+      <DependentUpon>view all.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registration\views\edit students.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration\views\edit students.Designer.cs">
+      <DependentUpon>edit students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registration\views\profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration\views\profile.Designer.cs">
+      <DependentUpon>profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registration\views\studentsdatabase.cs" />
+    <Compile Include="results_view.cs" />
+    <Compile Include="school fees\admin fee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="school fees\admin fee.Designer.cs">
+      <DependentUpon>admin fee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="schoolDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>schoolDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="startup\login1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startup\login1.Designer.cs">
+      <DependentUpon>login1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\class assgn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\class assgn.designer.cs">
+      <DependentUpon>class assgn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\class teachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\class teachers.designer.cs">
+      <DependentUpon>class teachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\teacher view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\teacher view.designer.cs">
+      <DependentUpon>teacher view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\teacher.designer.cs">
+      <DependentUpon>teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\teachers attendance report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\teachers attendance report.designer.cs">
+      <DependentUpon>teachers attendance report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\teachers attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\teachers attendance.designer.cs">
+      <DependentUpon>teachers attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\teachers main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\teachers main.designer.cs">
+      <DependentUpon>teachers main.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Threading.Tasks" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="classes.resx">
+      <DependentUpon>classes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="classes\resultsbox.resx">
+      <DependentUpon>resultsbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exams and results\exam_reports.resx">
+      <DependentUpon>exam_reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exams and results\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exams and results\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exams and results\report form.resx">
+      <DependentUpon>report form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exams and results\results_view.resx">
+      <DependentUpon>results_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees\bill student.resx">
+      <DependentUpon>bill student.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees\billing.resx">
+      <DependentUpon>billing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees\change  class.resx">
+      <DependentUpon>change  class.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees\collect fees.resx">
+      <DependentUpon>collect fees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees\fees rates.resx">
+      <DependentUpon>fees rates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees\Fees_Admin.resx">
+      <DependentUpon>Fees_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees\fee_statement.resx">
+      <DependentUpon>fee_statement.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees\reports\report.resx">
+      <DependentUpon>report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees\students fees.resx">
+      <DependentUpon>students fees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fees\type.resx">
+      <DependentUpon>type.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logs\create user.resx">
+      <DependentUpon>create user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logs\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prints.resx">
+      <DependentUpon>prints.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\frmparents.resx">
+      <DependentUpon>frmparents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\modify\mdparent.resx">
+      <DependentUpon>mdparent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\new_student.resx">
+      <DependentUpon>new_student.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\view all.resx">
+      <DependentUpon>view all.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\views\edit students.resx">
+      <DependentUpon>edit students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\views\profile.af-ZA.resx">
+      <DependentUpon>profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\views\profile.resx">
+      <DependentUpon>profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="school fees\admin fee.resx">
+      <DependentUpon>admin fee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="startup\login1.resx">
+      <DependentUpon>login1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\class assgn.resx">
+      <DependentUpon>class assgn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\class teachers.resx">
+      <DependentUpon>class teachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\teacher view.resx">
+      <DependentUpon>teacher view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\teacher.resx">
+      <DependentUpon>teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\teachers attendance report.resx">
+      <DependentUpon>teachers attendance report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\teachers attendance.resx">
+      <DependentUpon>teachers attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\teachers main.resx">
+      <DependentUpon>teachers main.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="schoolDataSet.xsc">
+      <DependentUpon>schoolDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="schoolDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>schoolDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="schoolDataSet.xss">
+      <DependentUpon>schoolDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Linux Mint.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

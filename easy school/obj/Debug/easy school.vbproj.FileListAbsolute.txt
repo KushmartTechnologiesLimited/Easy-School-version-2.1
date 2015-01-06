@@ -1,0 +1,234 @@
+C:\Users\sam\AppData\Local\Temporary Projects\easy school\bin\Debug\easy school.exe.config
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy school.vbprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\easy school.exe.config
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\easy school.exe
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\easy school.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\easy school.xml
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.billing.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.fee_statement.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.type.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.MDIParent1.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.new_student.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.view_all.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.students.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.home.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.mdyfrmparents.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.mdparent.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.register_main.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.register.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.Resources.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.student_profile.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.login.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.rooms.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.admin_fee.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.class_assgn.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.class_teachers.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.confirm.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.subjects.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teacher_subject.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teacher_view.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teacher.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teachers_attendance_report.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teachers_attendance.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.teachers_main.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy school.vbproj.GenerateResource.Cache
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy school.exe
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy school.xml
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy school.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.fees_rates.resources
+C:\Users\sam\Documents\Visual Studio 2012\Projects\easy school\easy school\obj\Debug\easy_school.collect_fees.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.bill_student.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.bill.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.billing.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.collect_fees.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.fees_rates.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.Fees_Admin.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.fee_statement.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.report.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.students_fees.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.type.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.MDIParent1.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.prints.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.new_student.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.view_all.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.edit_students.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.profile.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.mdyfrmparents.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.mdparent.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.Resources.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.classes.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.login.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.admin_fee.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy school.vbproj.GenerateResource.Cache
+C:\Users\sam\Desktop\easychool\easy school\easy school\bin\Debug\easy school.exe.config
+C:\Users\sam\Desktop\easychool\easy school\easy school\bin\Debug\easy school.exe
+C:\Users\sam\Desktop\easychool\easy school\easy school\bin\Debug\easy school.pdb
+C:\Users\sam\Desktop\easychool\easy school\easy school\bin\Debug\easy school.xml
+C:\Users\sam\Desktop\easychool\easy school\easy school\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\sam\Desktop\easychool\easy school\easy school\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.create_user.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.login1.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy school.exe
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy school.xml
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy school.pdb
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy school.vbprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\easychool\easy school\easy school\bin\Debug\af-ZA\easy school.resources.dll
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\easy_school.profile.af-ZA.resources
+C:\Users\sam\Desktop\easychool\easy school\easy school\obj\Debug\af-ZA\easy school.resources.dll
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\bin\Debug\easy school.exe.config
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.exe
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.xml
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.pdb
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\bin\Debug\easy school.exe
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\bin\Debug\easy school.pdb
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\bin\Debug\easy school.xml
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\bin\Debug\af-ZA\easy school.resources.dll
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.vbprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.bill_student.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.bill.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.billing.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.collect_fees.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.fees_rates.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.Fees_Admin.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.fee_statement.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.report.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.students_fees.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.type.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.create_user.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.login.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.MDIParent1.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.prints.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.new_student.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.view_all.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.edit_students.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.profile.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.mdyfrmparents.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.mdparent.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.Resources.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.classes.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.login1.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.admin_fee.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.profile.af-ZA.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.vbproj.GenerateResource.Cache
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\af-ZA\easy school.resources.dll
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.Form2.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.Form5.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.report_form.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.class_assgn.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.class_teachers.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.teacher_view.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.teacher.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.teachers_attendance_report.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.teachers_attendance.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.teachers_main.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.exam_reports.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.Form1.resources
+C:\Users\sam\Desktop\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.resultsbox.resources
+K:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\bin\Debug\easy school.exe.config
+K:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.exe
+K:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.xml
+K:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.pdb
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\bin\Debug\easy school.exe.config
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.exe
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.xml
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.pdb
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\bin\Debug\easy school.exe
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\bin\Debug\easy school.pdb
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\bin\Debug\easy school.xml
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\bin\Debug\af-ZA\easy school.resources.dll
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.vbprojResolveAssemblyReference.cache
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.resultsbox.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.exam_reports.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.Form1.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.Form2.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.Form5.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.bill_student.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.bill.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.billing.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.collect_fees.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.fees_rates.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.Fees_Admin.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.fee_statement.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.report.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.students_fees.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.type.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.create_user.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.login.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.MDIParent1.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.prints.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.new_student.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.view_all.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.edit_students.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.profile.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.mdyfrmparents.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.mdparent.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.Resources.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.classes.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.report_form.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.login1.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.admin_fee.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.class_assgn.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.class_teachers.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.teacher_view.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.teacher.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.teachers_attendance_report.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.teachers_attendance.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.teachers_main.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy_school.profile.af-ZA.resources
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\easy school.vbproj.GenerateResource.Cache
+N:\backup 19 oct 2014\desktop imortant backup\easychool\BACKED UP'\easy school\easy school\obj\Debug\af-ZA\easy school.resources.dll
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\bin\Debug\easy school.exe.config
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy school.exe
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy school.xml
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy school.pdb
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy school.vbprojResolveAssemblyReference.cache
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.resultsbox.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.exam_reports.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.Form1.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.Form2.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.Form5.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.bill_student.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.bill.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.billing.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.collect_fees.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.fees_rates.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.Fees_Admin.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.fee_statement.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.report.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.students_fees.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.type.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.create_user.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.login.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.MDIParent1.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.prints.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.new_student.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.view_all.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.edit_students.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.profile.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.mdyfrmparents.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.mdparent.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.Resources.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.classes.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.report_form.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.login1.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.admin_fee.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.class_assgn.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.class_teachers.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.teacher_view.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.teacher.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.teachers_attendance_report.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.teachers_attendance.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.teachers_main.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy_school.profile.af-ZA.resources
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\easy school.vbproj.GenerateResource.Cache
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\bin\Debug\easy school.exe
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\bin\Debug\easy school.pdb
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\bin\Debug\easy school.xml
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\bin\Debug\af-ZA\easy school.resources.dll
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\bin\Debug\MySql.Data.Entity.EF5.dll
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\bin\Debug\MySql.Data.Entity.EF6.dll
+\\KUSH-PC\Users\Public\New folderschool\2 nov 2014 latest source code\easy school\easy school\obj\Debug\af-ZA\easy school.resources.dll

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="easy_school.database" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAIAACBIAQAAAAQQAAAAAAACAAAGAAA=</HashCode>
+      <FileName>classes\database.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="easy_school.dataerrors" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>classes\dataerrors.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="easy_school.mdyfrmparents" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAoECAAAAAhAICAABkCAADRYAAJABAAAAAARoA=</HashCode>
+      <FileName>registration\frmparents.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="easy_school.register">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQAAggECAABAIAoFCogjwiARGwYAIBAkAQAgACAAA=</HashCode>
+      <FileName>registration\register.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="easy_school.admin_fee" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADIEAgEKAAAAAAIEDgwDkCAAAScA4BAEACAQAAAAA=</HashCode>
+      <FileName>school fees\admin fee.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="easy_school.validate">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAABAAAAAABQAAAAAAA=</HashCode>
+      <FileName>classes\validate.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="easy_school.My.MyApplication" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="easy_school.My.MySettings" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="easy_school.My.MySettingsProperty">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="easy_school.My.Resources.Resources" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

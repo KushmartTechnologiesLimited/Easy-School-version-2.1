@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6DD041B-0B21-4616-9F10-CAEC2F4D3FC5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>easy_school.My.MyApplication</StartupObject>
+    <RootNamespace>easy_school</RootNamespace>
+    <AssemblyName>easy school</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>easy school.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>easy school.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF5, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.5\MySql.Data.Entity.EF5.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF6, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.5\MySql.Data.Entity.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.5\MySql.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="database.vb" />
+    <Compile Include="dataerrors.vb" />
+    <Compile Include="mySqlDB.vb" />
+    <Compile Include="registration\frmparents.Designer.vb">
+      <DependentUpon>frmparents.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registration\frmparents.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration\modify\mdparent.Designer.vb">
+      <DependentUpon>mdparent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registration\modify\mdparent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration\register main.Designer.vb">
+      <DependentUpon>register main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registration\register main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration\register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registration\register.Designer.vb">
+      <DependentUpon>register.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="registration\views\student profile.Designer.vb">
+      <DependentUpon>student profile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="registration\views\student profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="school fees\admin fee.Designer.vb">
+      <DependentUpon>admin fee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="school fees\admin fee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="school fees\Fees Collection.Designer.vb">
+      <DependentUpon>Fees Collection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="school fees\Fees Collection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\class assgn.Designer.vb">
+      <DependentUpon>class assgn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\class assgn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\class teachers.Designer.vb">
+      <DependentUpon>class teachers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\class teachers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\teacher view.Designer.vb">
+      <DependentUpon>teacher view.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\teacher view.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\teacher.Designer.vb">
+      <DependentUpon>teacher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\teacher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\teachers attendance report.Designer.vb">
+      <DependentUpon>teachers attendance report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\teachers attendance report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\teachers attendance.Designer.vb">
+      <DependentUpon>teachers attendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\teachers attendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teachers\teachers main.Designer.vb">
+      <DependentUpon>teachers main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="teachers\teachers main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="time table\master day time table.Designer.vb">
+      <DependentUpon>master day time table.vb</DependentUpon>
+    </Compile>
+    <Compile Include="time table\master day time table.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="validate.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="registration\frmparents.resx">
+      <DependentUpon>frmparents.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\modify\mdparent.resx">
+      <DependentUpon>mdparent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\register main.resx">
+      <DependentUpon>register main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\register.resx">
+      <DependentUpon>register.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registration\views\student profile.resx">
+      <DependentUpon>student profile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="school fees\admin fee.resx">
+      <DependentUpon>admin fee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="school fees\Fees Collection.resx">
+      <DependentUpon>Fees Collection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\class assgn.resx">
+      <DependentUpon>class assgn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\class teachers.resx">
+      <DependentUpon>class teachers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\teacher view.resx">
+      <DependentUpon>teacher view.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\teacher.resx">
+      <DependentUpon>teacher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\teachers attendance report.resx">
+      <DependentUpon>teachers attendance report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\teachers attendance.resx">
+      <DependentUpon>teachers attendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teachers\teachers main.resx">
+      <DependentUpon>teachers main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="time table\master day time table.resx">
+      <DependentUpon>master day time table.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
